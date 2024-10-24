@@ -1,0 +1,24 @@
+C:\Users\Admin\Documents\App\App\bin\Debug\App.exe.config
+C:\Users\Admin\Documents\App\App\bin\Debug\App.exe
+C:\Users\Admin\Documents\App\App\bin\Debug\App.pdb
+C:\Users\Admin\Documents\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\App\App\obj\Debug\App.Login.resources
+C:\Users\Admin\Documents\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Admin\Documents\App\App\obj\Debug\App.UserManagement.resources
+C:\Users\Admin\Documents\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\App\App\obj\Debug\App.exe
+C:\Users\Admin\Documents\App\App\obj\Debug\App.pdb
+C:\Users\trant\OneDrive\Máy tính\App\App\bin\Debug\App.exe.config
+C:\Users\trant\OneDrive\Máy tính\App\App\bin\Debug\App.exe
+C:\Users\trant\OneDrive\Máy tính\App\App\bin\Debug\App.pdb
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.Login.resources
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.UserManagement.resources
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.exe
+C:\Users\trant\OneDrive\Máy tính\App\App\obj\Debug\App.pdb
+C:\Users\trant\OneDrive\Máy tính\App\App\bin\Debug\UserManagement.mdf
+C:\Users\trant\OneDrive\Máy tính\App\App\bin\Debug\UserManagement_log.ldf
